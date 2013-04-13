@@ -6,7 +6,7 @@ This is my attempt of integrating [Font Custom](http://fontcustom.com) with [Com
 
 Add this line to your application's Gemfile:
 
-    gem 'compass-fontcustom', :git => 'git://github.com/glaszig/compass-fontcustom.git'
+    gem 'compass-fontcustom', :git => 'git://github.com/unity/compass-fontcustom.git'
 
 And then execute:
 
